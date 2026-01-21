@@ -139,7 +139,7 @@ Here's the list of blueprints we have so far:
 
 * [High-Availability: Spread Pods across AZs & Nodes](/blueprints/ha-az-nodes/)
 * [Split Between On-Demand & Spot Instances](/blueprints/od-spot-split/)
-* [Prioritize Savings Plans and/or Reserved Instances](/blueprints/saving-plans/)
+* [Prioritize Reserved Capacity with Savings Plans and/or Reserved Instances](/blueprints/reserved-capacity/)
 * [Working with Graviton Instances](/blueprints/graviton)
 * [Overprovision capacity in advanced to increase responsiveness](/blueprints/overprovision/)
 * [Using multiple EBS volumes](/blueprints/multi-ebs/)
